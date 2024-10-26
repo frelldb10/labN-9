@@ -1,0 +1,43 @@
+/*estilo para encabezado*/
+header{
+    background-color: hwb(253 13% 8%);
+    padding: 10px;
+    text-align: center;
+    color: hsl(0, 0%, 96%);
+    border-radius: 20px;
+}
+/*estilo para la barra de navegacion*/
+nav a{
+    text-align: center;
+    color: chocolate;
+    text-decoration: dashed:none;
+    margin: 0 20px;
+    font-weight: bold;
+    
+}
+/*cambia de color*/
+nav a :hover{
+    color: brown;
+}
+/*estilo para seccion principal*/
+.container{
+width: 80%;
+margin: 20px auto;
+padding: 15px;
+background-color: #f5f5dc;
+border-radius: 15px;
+box-shadow: 0 0 20px rgba(red, green, blue, alpha);
+}
+.container h2{
+    color: #777;
+    font-size: 20px;
+    line-height:2.5;
+}
+footer{
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 25px;
+}
