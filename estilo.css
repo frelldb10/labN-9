@@ -7,7 +7,7 @@ header{
     border-radius: 20px;
 }
 /*estilo para la barra de navegacion*/
-nav a{
+.navbar{
     text-align: center;
     color: black;
     text-decoration: dashed;
@@ -16,7 +16,7 @@ nav a{
     
 }
 /*cambia de color*/
-nav a:hover{
+.navbar:hover{
     color:orange;
 }
 /*estilo para seccion principal*/
