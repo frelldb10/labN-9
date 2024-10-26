@@ -17,7 +17,7 @@ nav a{
 }
 /*cambia de color*/
 nav a:hover{
-    color: rgb(56, 165, 42);
+    color:orange;
 }
 /*estilo para seccion principal*/
 .container{
